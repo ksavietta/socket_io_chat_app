@@ -3,4 +3,4 @@ Sample Chat App with Socket.io and Express.
 
 https://socket.io/get-started/chat/
 
-![Screenshot](screenshot.png)
+![Screenshot](screen_shot.png)
